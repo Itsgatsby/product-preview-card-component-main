@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.mary{
+    height: 40rem !important;
+}
+img{
+    height: 40rem;
+}
+@media (max-width: 768px) {
+    .zulkif{
+    display: flex;
+    flex-direction: column;
+    }
+}
+body{
+    padding-top:4rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+p {
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+}
+h5{
+    text-decoration: line-through;
+}
